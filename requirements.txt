@@ -1,3 +1,4 @@
+h5py==3.7.0
 brotli==1.0.9
 brotlipy==0.7.0
 ConfigParser==5.3.0
